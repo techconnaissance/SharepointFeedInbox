@@ -1,0 +1,9 @@
+C:\Sunandan\Local Projects\Workouts\SPWinForms\bin\Debug\SPWinForms.exe.config
+C:\Sunandan\Local Projects\Workouts\SPWinForms\bin\Debug\SPWinForms.exe
+C:\Sunandan\Local Projects\Workouts\SPWinForms\bin\Debug\SPWinForms.pdb
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPWinForms.Properties.Resources.resources
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPWinForms.csproj.GenerateResource.Cache
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPWinForms.exe
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPWinForms.pdb
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPWinForms.frmSettings.resources
+C:\Sunandan\Local Projects\Workouts\SPWinForms\bin\Debug\SPConsole.exe.config

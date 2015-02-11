@@ -1,0 +1,15 @@
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\bin\Release\NotificationWindow.dll
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\bin\Release\NotificationWindow.pdb
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\obj\Release\ResolveAssemblyReference.cache
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.Properties.Resources.resources
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\obj\Release\GenerateResource.read.1.tlog
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\obj\Release\GenerateResource.write.1.tlog
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.dll
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.pdb
+C:\Sunandan\Workouts\TempWorkSln\NotificationWindow\bin\Release\NotificationWindow.dll
+C:\Sunandan\Workouts\TempWorkSln\NotificationWindow\bin\Release\NotificationWindow.pdb
+C:\Sunandan\Workouts\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.csprojResolveAssemblyReference.cache
+C:\Sunandan\Workouts\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.Properties.Resources.resources
+C:\Sunandan\Workouts\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.csproj.GenerateResource.Cache
+C:\Sunandan\Workouts\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.dll
+C:\Sunandan\Workouts\TempWorkSln\NotificationWindow\obj\Release\NotificationWindow.pdb

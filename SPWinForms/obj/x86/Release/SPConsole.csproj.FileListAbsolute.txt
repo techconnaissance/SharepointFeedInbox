@@ -1,0 +1,17 @@
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Release\CoPNotification.exe.config
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Release\CoPNotification.exe
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Release\CoPNotification.XmlSerializers.dll
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Release\CoPNotification.pdb
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Release\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Release\NotificationWindow.dll
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Release\NotificationWindow.pdb
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\SPWinForms.frmNotification.resources
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\SPWinForms.frmSettings.resources
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\SPConsole.Properties.Resources.resources
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\CoPNotification.exe
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\CoPNotification.pdb
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\CoPNotification.XmlSerializers.dll
+C:\Users\INL9AIC\documents\visual studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Release\SPConsole.Form1.resources

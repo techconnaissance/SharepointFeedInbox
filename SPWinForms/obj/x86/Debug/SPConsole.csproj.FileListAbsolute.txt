@@ -1,0 +1,49 @@
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPWinForms.frmSettings.resources
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPConsole.Properties.Resources.resources
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPConsole.csproj.GenerateResource.Cache
+C:\Sunandan\Local Projects\Workouts\SPWinForms\bin\Debug\SPConsole.exe.config
+C:\Sunandan\Local Projects\Workouts\SPWinForms\bin\Debug\SPConsole.exe
+C:\Sunandan\Local Projects\Workouts\SPWinForms\bin\Debug\SPConsole.pdb
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPConsole.exe
+C:\Sunandan\Local Projects\Workouts\SPWinForms\obj\x86\Debug\SPConsole.pdb
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Debug\NotificationWindow.dll
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Debug\NotificationWindow.pdb
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\SPWinForms.frmNotification.resources
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\SPWinForms.frmSettings.resources
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\SPConsole.Properties.Resources.resources
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Debug\CoPNotification.exe.config
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Debug\CoPNotification.exe
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\bin\Debug\CoPNotification.pdb
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\CoPNotification.exe
+C:\Users\INL9AIC\Documents\Visual Studio 2010\Projects\TempWorkSln\SPWinForms\obj\x86\Debug\CoPNotification.pdb
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\bin\Debug\CoPNotification.exe.config
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\obj\x86\Debug\CoPNotification.exe
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\obj\x86\Debug\CoPNotification.pdb
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\bin\Debug\CoPNotification.exe
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\bin\Debug\CoPNotification.pdb
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\bin\Debug\NotificationWindow.dll
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\bin\Debug\NotificationWindow.pdb
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\obj\x86\Debug\SPConsole.csprojResolveAssemblyReference.cache
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\obj\x86\Debug\SPWinForms.frmNotification.resources
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\obj\x86\Debug\SPWinForms.frmSettings.resources
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\obj\x86\Debug\SPConsole.Properties.Resources.resources
+C:\Sunandan\Workouts\TempWorkSln\SPWinForms\obj\x86\Debug\SPConsole.csproj.GenerateResource.Cache
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\bin\Debug\NotificationWindow.dll
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\bin\Debug\NotificationWindow.pdb
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\obj\x86\Debug\SPConsole.csprojResolveAssemblyReference.cache
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\obj\x86\Debug\SPWinForms.frmNotification.resources
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\obj\x86\Debug\SPWinForms.frmSettings.resources
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\obj\x86\Debug\SPConsole.Properties.Resources.resources
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\obj\x86\Debug\SPConsole.csproj.GenerateResource.Cache
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\bin\Debug\SPNotification.exe.config
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\bin\Debug\SPNotification.exe
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\bin\Debug\SPNotification.pdb
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\obj\x86\Debug\SPNotification.exe
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\obj\x86\Debug\SPNotification.pdb
+C:\Sunandan\Workouts\SharepointNotification\SPWinForms\bin\Debug\appicon.ico
